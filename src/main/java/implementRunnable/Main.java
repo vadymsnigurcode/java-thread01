@@ -1,4 +1,6 @@
-public class TestThread {
+package implementRunnable;
+
+public class Main {
 
     public static void main(String args[]) {
         RunnableDemo R1 = new RunnableDemo( "Поток-1");
